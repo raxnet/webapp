@@ -2,7 +2,7 @@
     "valid_domains": [
         {
             "domain": "panel.raxnet.my.id",
-            "expiry_date": "2025-12-31"  // Tanggal kedaluwarsa lisensi
+            "expiry_date": "2025-12-31"
         },
         {
             "domain": "domain2.com",
